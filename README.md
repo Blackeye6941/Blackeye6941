@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">"I Want you to be Happier ;)"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackeye6941&label=Profile%20views&color=0e75b6&style=flat" alt="blackeye6941" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=blackeye6941&label=Profile%20views&color=0e75b6&style=flat" alt="blackeye6941" /> </p>
 -    A newbie developer with Much Interest in creating open source projects
 
 - 🌱 I’m currently learning **Python frameworks for AI and ML**
