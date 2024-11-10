@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python frameworks for AI and ML**
 
-- ⚡Ask me about **React, Next and Cpp**
+- 💬Ask me about **React, Next and Cpp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
