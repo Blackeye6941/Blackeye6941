@@ -2,7 +2,8 @@
 <h3 align="center">"I Want you to be Happier ;)"</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blackeye6941&label=Profile%20views&color=0e75b6&style=flat" alt="blackeye6941" /> </p>
--    Developing solutions that can truly create impact
+
+- Developing solutions that can truly create impact
 
 - 🌱 I’m currently learning **Game development**
 
