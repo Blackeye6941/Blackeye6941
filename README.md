@@ -5,9 +5,9 @@
 
 - Developing solutions that can truly create impact
 
-- 🌱 I’m currently learning **Game development**
+- Currently learning **Game development**
 
-- 💬Ask me about **React, Next and C++**
+- Ask me about **Fullstack development and C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
