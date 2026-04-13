@@ -2,11 +2,11 @@
 <h3 align="center">"I Want you to be Happier ;)"</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blackeye6941&label=Profile%20views&color=0e75b6&style=flat" alt="blackeye6941" /> </p>
--    A newbie developer with Much Interest in  open source projects
+-    Developing solutions that can truly create impact
 
-- 🌱 I’m currently learning **Python frameworks for AI and ML**
+- 🌱 I’m currently learning **Game development**
 
-- 💬Ask me about **React, Next and Cpp**
+- 💬Ask me about **React, Next and C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
